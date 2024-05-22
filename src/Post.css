@@ -1,0 +1,25 @@
+/* Included within App.css previously */
+/* If you want to keep Post styles in a separate file, ensure you import it correctly */
+
+.post {
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .post h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .post p {
+    margin: 10px 0;
+    font-size: 1em;
+    line-height: 1.6;
+    color: #666;
+  }
+  
